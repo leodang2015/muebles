@@ -1,0 +1,8 @@
+{
+  "name": "Muebles los Alpes",
+  "description": "Sistema E-commerce y Administración para Muebles los Alpes (Taller Práctico BD SENA) con control de clientes, productos, carrito de compras, registro de precios, control de inventario y sección de reportes gerenciales.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
